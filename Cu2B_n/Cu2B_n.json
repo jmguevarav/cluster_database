@@ -1,0 +1,25 @@
+{
+  "title": "Structure- and Size-Dependent Properties of BnCu20/– (n = 2–14) Clusters: DFT Calculations",
+  "authors": [
+    "Guevara-Vela, J. M.",
+    "Rodríguez-Kessler, P. L.",
+    "Cabellos-Quiroz, J. L.",
+    "Rocha-Rinza, T.",
+    "Vásquez-Espinal, A.",
+    "Muñoz-Castro, A."
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "year": 2025,
+  "volume": 129,
+  "number": 22,
+  "pages": "4855–4860",
+  "doi": "10.1021/acs.jpca.4c08443",
+  "url": "https://doi.org/10.1021/acs.jpca.4c08443",
+  "publisher": "American Chemical Society (ACS)",
+  "cluster_series": "Cu2B_n",
+  "size_range": "n = 2–14",
+  "note": "Structures for Cu2B2 to Cu2B14 neutral clusters.",
+  "functional": "PBE",
+  "basis set": "Def2-TZVP"
+}
+
