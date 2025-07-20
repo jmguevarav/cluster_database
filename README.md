@@ -42,3 +42,10 @@ For the Pt<sub>18</sub>, Pt<sub>19</sub>, and Pt<sub>20</sub> clusters:
    _Journal of Molecular Modeling_, **30**(9), 2024.  
    [DOI: 10.1007/s00894-024-06099-5](https://doi.org/10.1007/s00894-024-06099-5)
 
+For the RuAg<sub>n</sub> clusters:
+
+5. **Rodríguez-Kessler, P. L., Rodríguez-Carrera, S., Guevara-Vela, J. M., Rocha-Rinza, T., Orozco-Ic, M., Olalde-López, D., & Muñoz-Castro, A.**  
+   *Structures and stabilities Ru-doped Ag<sub>n</sub> (n = 1–13) clusters: Ag<sub>10</sub>Ru a 18-ve cluster superatom*  
+   _Inorganica Chimica Acta_, **574**, 122349, 2025.  
+   [DOI: 10.1016/j.ica.2024.122349](https://doi.org/10.1016/j.ica.2024.122349)
+

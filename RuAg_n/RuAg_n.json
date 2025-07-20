@@ -1,0 +1,28 @@
+{
+  "title": "Structures and stabilities Ru-doped Ag (n = 1–13) clusters: Ag₁₀Ru a 18-ve cluster superatom",
+  "authors": [
+    "P.L. Rodríguez-Kessler",
+    "Salomón Rodríguez-Carrera",
+    "José Manuel Guevara-Vela",
+    "Tomás Rocha-Rinza",
+    "Mesías Orozco-Ic",
+    "David Olalde-López",
+    "A. Muñoz-Castro"
+  ],
+  "journal": "Inorganica Chimica Acta",
+  "volume": 574,
+  "number": null,
+  "year": 2025,
+  "month": "January",
+  "issn": "0020-1693",
+  "pages": "122349",
+  "doi": "10.1016/j.ica.2024.122349",
+  "url": "https://doi.org/10.1016/j.ica.2024.122349",
+  "publisher": "Elsevier BV",
+  "cluster_series": "RuAg_n",
+  "size_range": "n = 3–13",
+  "note": "Structures for the RuAg3 to RuAg12 clusters.",
+  "functional": "PBE",
+  "basis set": "Def2-TZVP"
+}
+
