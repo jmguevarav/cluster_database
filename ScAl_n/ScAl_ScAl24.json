@@ -1,0 +1,26 @@
+{
+  "title": "Wave function analyses of scandium-doped aluminium clusters, AlₙSc (n = 1–24), and their CO₂ fixation abilities",
+  "authors": [
+    "Guevara-Vela, José Manuel",
+    "Sauza-de la Vega, Arturo",
+    "Gallegos, Miguel",
+    "Martín Pendás, Ángel",
+    "Rocha-Rinza, Tomas"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "year": 2023,
+  "volume": 25,
+  "number": 28,
+  "pages": "18854–18865",
+  "doi": "10.1039/d3cp01730c",
+  "url": "http://dx.doi.org/10.1039/D3CP01730C",
+  "issn": "1463-9084",
+  "cluster_series": "ScAl_n",
+  "size_range": "n = 1–24",
+  "note": "Structures for the ScAl2 to ScAl24 clusters.",
+  "functional": "PBE",
+  "basis set": "Def2-TZVP"
+}
+
+
