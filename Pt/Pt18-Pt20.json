@@ -1,0 +1,25 @@
+{
+  "reference": {
+    "title": "New global minimum conformers for the Pt19 and Pt20 clusters: low symmetric species featuring different active sites",
+    "authors": [
+      "José Manuel Guevara-Vela",
+      "Miguel Gallegos",
+      "Tomás Rocha-Rinza",
+      "Álvaro Muñoz-Castro",
+      "Peter L. Rodríguez Kessler",
+      "Ángel Martín Pendás"
+    ],
+    "journal": "Journal of Molecular Modeling",
+    "volume": 30,
+    "number": 9,
+    "year": 2024,
+    "month": "August",
+    "publisher": "Springer Science and Business Media LLC",
+    "issn": "0948-5023",
+    "doi": "10.1007/s00894-024-06099-5",
+    "url": "http://dx.doi.org/10.1007/s00894-024-06099-5",
+    "note": "Structures for the Pt18, Pt19, and Pt20 clusters.",
+    "functional": "TPSSh",
+    "basis set": "Def2-TZVP"
+  }
+}
