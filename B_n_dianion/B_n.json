@@ -1,0 +1,26 @@
+{
+  "title": "Does Aromaticity Play a Role in Electronic and Structural Properties of YBn (n=2–14) Clusters?",
+  "authors": [
+    "Miguel Gallegos",
+    "José Manuel Guevara‐Vela",
+    "Aurora Costales",
+    "Tomás Rocha‐Rinza",
+    "Ángel Martín Pendás"
+  ],
+  "journal": "ChemPhysChem",
+  "volume": 25,
+  "number": 21,
+  "year": 2024,
+  "month": "October",
+  "issn": "1439-7641",
+  "pages": null,
+  "doi": "10.1002/cphc.202400544",
+  "url": "https://doi.org/10.1002/cphc.202400544",
+  "publisher": "Wiley",
+  "cluster_series": "B_n^2-",
+  "n_range": "2–14",
+  "note": "Structures for B2 to the B14 dianionic clusters.",
+  "functional": "PBE",
+  "basis set": "Def2-TZVP"
+}
+
