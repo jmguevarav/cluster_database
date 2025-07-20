@@ -1,0 +1,24 @@
+{
+  "title": "Structural evolution and bonding within molybdenum-doped tin clusters, MoSnₙ (n = 2–15)",
+  "authors": [
+    "José Manuel Guevara-Vela",
+    "Miguel Gallegos",
+    "Evelio Francisco",
+    "Ángel Martín Pendás",
+    "Tomás Rocha-Rinza"
+  ],
+  "journal": "Inorganica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "month": "March",
+  "volume": 577,
+  "pages": "122493",
+  "doi": "10.1016/j.ica.2024.122493",
+  "url": "https://doi.org/10.1016/j.ica.2024.122493",
+  "cluster_series": "MoSn_n",
+  "size_range": "n = 2–15",
+  "note": "Structures for the MoSn_2 to MoSn_15 clusters.",
+  "functional": "TPSSh",
+  "basis set": "Def2-TZVP"
+}
+
