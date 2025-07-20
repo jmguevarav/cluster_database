@@ -1,0 +1,24 @@
+{
+  "reference": {
+    "title": "On the structure and electronic properties of Pt_n clusters: new most stable structures for n = 16–17",
+    "authors": [
+      "José Manuel Guevara-Vela",
+      "Tomás Rocha-Rinza",
+      "Peter L. Rodríguez-Kessler",
+      "Alvaro Muñoz-Castro"
+    ],
+    "journal": "Physical Chemistry Chemical Physics",
+    "volume": 25,
+    "number": 42,
+    "pages": "28835–28840",
+    "year": 2023,
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "issn": "1463-9084",
+    "doi": "10.1039/d3cp04455f",
+    "url": "http://dx.doi.org/10.1039/D3CP04455F",
+    "note": "Structures for the Pt15, Pt16, and Pt17 clusters.",
+    "functional": "TPSSh",
+    "basis set": "Def2-TZVP"
+  }
+}
+
