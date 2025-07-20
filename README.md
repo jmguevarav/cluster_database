@@ -2,7 +2,7 @@
 
 A minimal, machine‑friendly collection of small and medium-size metal clusters, each treated as a “stone” in a computational zen garden.
 
-## 📚 Data Sources
+## Data Sources
 
 The cluster geometries and energetic data provided in this repository are based on previously published peer-reviewed studies. Please cite the corresponding publications if you make use of this data in your own research:
 
