@@ -45,18 +45,24 @@ The cluster geometries provided in this repository are based on previously publi
 5. Pt<sub>18</sub>, Pt<sub>19</sub>, and Pt<sub>20</sub> clusters:
 
 **Guevara-Vela, J. M., Gallegos, M., Rocha-Rinza, T., Muñoz-Castro, Á., Rodríguez Kessler, P. L., & Martín Pendás, Á.**  
-   *New global minimum conformers for the Pt<sub>19</sub> and Pt<sub>20</sub> clusters: low symmetric species featuring different active sites*  
-   _Journal of Molecular Modeling_, **30**(9), 2024.  
-   [DOI: 10.1007/s00894-024-06099-5](https://doi.org/10.1007/s00894-024-06099-5)
+*New global minimum conformers for the Pt<sub>19</sub> and Pt<sub>20</sub> clusters: low symmetric species featuring different active sites*  
+_Journal of Molecular Modeling_, **30**(9), 2024.  
+[DOI: 10.1007/s00894-024-06099-5](https://doi.org/10.1007/s00894-024-06099-5)
 
-6. MoSn<sub>n</sub> clusters:
+6. MgPt<sub>n</sub> clusters:
+
+**Guevara-Vela, J. M., Rodríguez Kessler, P. L., Muñoz-Castro, Á., Rocha-Rinza, T.**
+*Electronic and structural properties of magnesium-doped platinum clusters: superatomic features of the MgPt<sub>9</sub> complex*
+_Physical Chemistry Chemical Physics_ **27**(34) ,2025.
+
+7. MoSn<sub>n</sub> clusters:
 
 **Guevara-Vela, J. M., Gallegos, M., Francisco, E., Martín Pendás, Á., & Rocha-Rinza, T.**  
    *Structural evolution and bonding within molybdenum-doped tin clusters, Mo<sub>n</sub>Sn (n = 2–15)*  
    _Inorganica Chimica Acta_, **577**, 122493, 2025.  
    [DOI: 10.1016/j.ica.2024.122493](https://doi.org/10.1016/j.ica.2024.122493)
 
-7. For the RuAg<sub>n</sub> clusters:
+8. For the RuAg<sub>n</sub> clusters:
 
 **Rodríguez-Kessler, P. L., Rodríguez-Carrera, S., Guevara-Vela, J. M., Rocha-Rinza, T., Orozco-Ic, M., Olalde-López, D., & Muñoz-Castro, A.**  
    *Structures and stabilities Ru-doped Ag<sub>n</sub> (n = 1–13) clusters: Ag<sub>10</sub>Ru a 18-ve cluster superatom*  
