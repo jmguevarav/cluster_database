@@ -53,6 +53,7 @@ _Journal of Molecular Modeling_, **30**(9), 2024.
 
 **Guevara-Vela, J. M., Rodríguez Kessler, P. L., Muñoz-Castro, Á., Rocha-Rinza, T.**
 *Electronic and structural properties of magnesium-doped platinum clusters: superatomic features of the MgPt<sub>9</sub> complex*
+
 _Physical Chemistry Chemical Physics_ **27**(34) ,2025.
 
 7. MoSn<sub>n</sub> clusters:
