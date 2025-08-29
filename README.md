@@ -1,6 +1,6 @@
 # Clusters Zen Garden
 
-A minimal, machine‑friendly collection of small and medium-size metal clusters, each treated as a “stone” in a computational zen garden.
+A minimal, machine‑friendly collection of small and medium-size metal clusters, each treated as a *stone* in a computational zen garden.
 
 The periodic table below serves as a quiet guide to the elemental scope of this repository. Each highlighted atom represents a family of clusters included in this collection. Each arrangement is shaped by its own symmetry, energy, and form. Like stones in a garden, these elements are not selected for hierarchy but for harmony, each offering a different perspective on the architecture of matter.
 
