@@ -29,7 +29,7 @@ The cluster geometries provided in this repository are based on previously publi
 3. Cu<sub>2</sub>B<sub>n</sub> and Cu<sub>2</sub>B<sub>n</sub><sup>-</sup> clusters:
 
 **Guevara-Vela, J. M., Rodríguez-Kessler, P. L., Cabellos-Quiroz, J. L., Rocha-Rinza, T., Vásquez-Espinal, A., & Muñoz-Castro, A.**  
-   *Structure- and Size-Dependent Properties of BₙCu₂₀/⁻ (n = 2–14) Clusters: DFT Calculations*  
+   *Structure- and Size-Dependent Properties of BₙCu₂<sup>0</sup>/⁻ (n = 2–14) Clusters: DFT Calculations*  
    _The Journal of Physical Chemistry A_, **129**(22), 4855–4860, 2025.  
    [DOI: 10.1021/acs.jpca.4c08443](https://doi.org/10.1021/acs.jpca.4c08443)
  
