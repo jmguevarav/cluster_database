@@ -1,0 +1,23 @@
+{
+  "title": "Electronic and structural properties of magnesium-doped platinum clusters: superatomic features of the MgPt9 complex",
+  "authors": [
+    "Guevara-Vela, José Manuel",
+    "Rodríguez-Kessler, Peter L.",
+    "Muñoz-Castro, Alvaro",
+    "Rocha-Rinza, Tomás"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "volume": 27,
+  "number": 34,
+  "pages": "17800–17810",
+  "year": 2025,
+  "issn": "1463-9084",
+  "doi": "10.1039/d5cp02053k",
+  "url": "http://dx.doi.org/10.1039/D5CP02053K",
+  "publisher": "Royal Society of Chemistry (RSC)",
+  "cluster_series": "MgPt_n",
+  "size_range": "n = 2–12",
+  "note": "Structures for the MgPt_2 to MgPt_12 clusters.",
+  "functional": "PBE0",
+  "basis set": "Def2-TZVP"
+}
