@@ -63,7 +63,7 @@ The cluster geometries provided in this repository are based on previously publi
    _Inorganica Chimica Acta_, **577**, 122493, 2025.  
    [DOI: 10.1016/j.ica.2024.122493](https://doi.org/10.1016/j.ica.2024.122493)
 
-8. For the RuAg<sub>n</sub> clusters:
+8. RuAg<sub>n</sub> clusters:
 
 **Rodríguez-Kessler, P. L., Rodríguez-Carrera, S., Guevara-Vela, J. M., Rocha-Rinza, T., Orozco-Ic, M., Olalde-López, D., & Muñoz-Castro, A.**  
    *Structures and stabilities Ru-doped Ag<sub>n</sub> (n = 1–13) clusters: Ag<sub>10</sub>Ru a 18-ve cluster superatom*  
