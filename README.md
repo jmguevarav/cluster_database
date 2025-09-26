@@ -60,7 +60,7 @@ The cluster geometries provided in this repository are based on previously publi
 
 **Guevara-Vela, J. M., Cabellos-Quiroz, J. L., Salazar-Colores, S., Rodríguez-Kessler, P. L., & Muñoz-Castro, Á.**
     *Structure search for B<sub>7</sub>Mn<sub>2</sub> clusters: Inverse sandwich geometry with a high-spin state*
-    _Computational and Theoretical Chemistry_, 1254, 115487, 2025.
+    _Computational and Theoretical Chemistry_, **1254**, 115487, 2025.
     [DOI: 10.1016/j.comptc.2025.115487](http://dx.doi.org/10.1016/j.comptc.2025.115487)
 
 8. MoSn<sub>n</sub> clusters:
