@@ -1,0 +1,26 @@
+{
+  "title": "Structure search for B7Mn2 clusters: Inverse sandwich geometry with a high-spin state",
+  "authors": [
+    "José Manuel Guevara-Vela",
+    "J.L. Cabellos-Quiroz",
+    "Sebastián Salazar-Colores",
+    "P.L. Rodríguez-Kessler",
+    "Álvaro Muñoz-Castro"
+  ],
+  "journal": "Computational and Theoretical Chemistry",
+  "volume": 1254,
+  "number": null,
+  "year": 2025,
+  "month": "December",
+  "issn": "2210-271X",
+  "pages": "115487",
+  "doi": "10.1016/j.comptc.2025.115487",
+  "url": "http://dx.doi.org/10.1016/j.comptc.2025.115487",
+  "publisher": "Elsevier BV",
+  "cluster_series": "B7Mn2",
+  "n_range": null,
+  "note": "Inverse sandwich geometry with a high-spin state.",
+  "functional": "PBE0",
+  "basis set": "Def2-TZVP"
+}
+
