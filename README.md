@@ -15,65 +15,65 @@ The cluster geometries provided in this repository are based on previously publi
 1. Al<sub>n</sub> and ScAl<sub>n</sub> clusters:
 
 **Guevara-Vela, J. M., Sauza-de la Vega, A., Gallegos, M., Martín Pendás, Á., & Rocha-Rinza, T.**  
-   *Wave function analyses of scandium-doped aluminium clusters, Al<sub>n</sub>Sc (n = 1–24), and their CO<sub>2</sub> fixation abilities*  
-   _Physical Chemistry Chemical Physics_, **25**(28), 18854–18865, 2023.  
-   [DOI: 10.1039/d3cp01730c](https://doi.org/10.1039/d3cp01730c)
+    *Wave function analyses of scandium-doped aluminium clusters, Al<sub>n</sub>Sc (n = 1–24), and their CO<sub>2</sub> fixation abilities*  
+    _Physical Chemistry Chemical Physics_, **25**(28), 18854–18865, 2023.  
+    [DOI: 10.1039/d3cp01730c](https://doi.org/10.1039/d3cp01730c)
 
 2. B<sub>n</sub>, B<sub>n</sub><sup>-</sup>, B<sub>n</sub><sup>2-</sup> and YB<sub>n</sub> clusters:
 
 **Gallegos, M., Guevara‐Vela, J. M., Costales, A., Rocha‐Rinza, T., & Martín Pendás, Á.**  
-   *Does Aromaticity Play a Role in Electronic and Structural Properties of YB<sub>n</sub> (n = 2–14) Clusters?*  
-   _ChemPhysChem_, **25**(21), 2024.  
-   [DOI: 10.1002/cphc.202400544](https://doi.org/10.1002/cphc.202400544)
+    *Does Aromaticity Play a Role in Electronic and Structural Properties of YB<sub>n</sub> (n = 2–14) Clusters?*  
+    _ChemPhysChem_, **25**(21), 2024.  
+    [DOI: 10.1002/cphc.202400544](https://doi.org/10.1002/cphc.202400544)
 
 3. Cu<sub>2</sub>B<sub>n</sub> and Cu<sub>2</sub>B<sub>n</sub><sup>-</sup> clusters:
 
 **Guevara-Vela, J. M., Rodríguez-Kessler, P. L., Cabellos-Quiroz, J. L., Rocha-Rinza, T., Vásquez-Espinal, A., & Muñoz-Castro, A.**  
-   *Structure- and Size-Dependent Properties of BₙCu₂<sup>0</sup>/⁻ (n = 2–14) Clusters: DFT Calculations*  
-   _The Journal of Physical Chemistry A_, **129**(22), 4855–4860, 2025.  
-   [DOI: 10.1021/acs.jpca.4c08443](https://doi.org/10.1021/acs.jpca.4c08443)
+    *Structure- and Size-Dependent Properties of BₙCu₂<sup>0</sup>/⁻ (n = 2–14) Clusters: DFT Calculations*  
+    _The Journal of Physical Chemistry A_, **129**(22), 4855–4860, 2025.  
+    [DOI: 10.1021/acs.jpca.4c08443](https://doi.org/10.1021/acs.jpca.4c08443)
  
 
 4. Pt<sub>15</sub>, Pt<sub>16</sub>, and Pt<sub>17</sub> clusters: 
 
 **Guevara-Vela, J. M., Rocha-Rinza, T., Rodríguez-Kessler, P. L., & Muñoz-Castro, A.**  
-   *On the structure and electronic properties of Pt<sub>n</sub> clusters: new most stable structures for n = 16–17*  
-   _Physical Chemistry Chemical Physics_, **25**(42), 28835–28840, 2023.  
-   [DOI: 10.1039/d3cp04455f](https://doi.org/10.1039/d3cp04455f)
+    *On the structure and electronic properties of Pt<sub>n</sub> clusters: new most stable structures for n = 16–17*  
+    _Physical Chemistry Chemical Physics_, **25**(42), 28835–28840, 2023.  
+    [DOI: 10.1039/d3cp04455f](https://doi.org/10.1039/d3cp04455f)
 
 
 5. Pt<sub>18</sub>, Pt<sub>19</sub>, and Pt<sub>20</sub> clusters:
 
 **Guevara-Vela, J. M., Gallegos, M., Rocha-Rinza, T., Muñoz-Castro, Á., Rodríguez Kessler, P. L., & Martín Pendás, Á.**  
-*New global minimum conformers for the Pt<sub>19</sub> and Pt<sub>20</sub> clusters: low symmetric species featuring different active sites*  
-_Journal of Molecular Modeling_, **30**(9), 2024.  
-[DOI: 10.1007/s00894-024-06099-5](https://doi.org/10.1007/s00894-024-06099-5)
+    *New global minimum conformers for the Pt<sub>19</sub> and Pt<sub>20</sub> clusters: low symmetric species featuring different active sites*  
+    _Journal of Molecular Modeling_, **30**(9), 2024.  
+    [DOI: 10.1007/s00894-024-06099-5](https://doi.org/10.1007/s00894-024-06099-5)
 
 6. MgPt<sub>n</sub> clusters:
 
 **Guevara-Vela, J. M., Rodríguez Kessler, P. L., Muñoz-Castro, Á., Rocha-Rinza, T.**
-*Electronic and structural properties of magnesium-doped platinum clusters: superatomic features of the MgPt<sub>9</sub> complex*
-_Physical Chemistry Chemical Physics_ **27**(34) ,2025.
-[DOI: 10.1039/D5CP02053K](https://doi.org/10.1039/D5CP02053K)
+    *Electronic and structural properties of magnesium-doped platinum clusters: superatomic features of the MgPt<sub>9</sub> complex*
+    _Physical Chemistry Chemical Physics_ **27**(34) ,2025.
+    [DOI: 10.1039/D5CP02053K](https://doi.org/10.1039/D5CP02053K)
 
 7. Mn<sub>2</sub>B<sub>7</sub> cluster:
 
-*Guevara-Vela, J. M., Cabellos-Quiroz, J. L., Salazar-Colores, S., Rodríguez-Kessler, P. L., & Muñoz-Castro, Á.**
-*Structure search for B<sub>7</sub>Mn<sub>2</sub> clusters: Inverse sandwich geometry with a high-spin state*
-_Computational and Theoretical Chemistry_, 1254, 115487, 2025.
-[DOI: 10.1016/j.comptc.2025.115487](http://dx.doi.org/10.1016/j.comptc.2025.115487)
+**Guevara-Vela, J. M., Cabellos-Quiroz, J. L., Salazar-Colores, S., Rodríguez-Kessler, P. L., & Muñoz-Castro, Á.**
+    *Structure search for B<sub>7</sub>Mn<sub>2</sub> clusters: Inverse sandwich geometry with a high-spin state*
+    _Computational and Theoretical Chemistry_, 1254, 115487, 2025.
+    [DOI: 10.1016/j.comptc.2025.115487](http://dx.doi.org/10.1016/j.comptc.2025.115487)
 
 8. MoSn<sub>n</sub> clusters:
 
 **Guevara-Vela, J. M., Gallegos, M., Francisco, E., Martín Pendás, Á., & Rocha-Rinza, T.**  
-   *Structural evolution and bonding within molybdenum-doped tin clusters, Mo<sub>n</sub>Sn (n = 2–15)*  
-   _Inorganica Chimica Acta_, **577**, 122493, 2025.  
-   [DOI: 10.1016/j.ica.2024.122493](https://doi.org/10.1016/j.ica.2024.122493)
+    *Structural evolution and bonding within molybdenum-doped tin clusters, Mo<sub>n</sub>Sn (n = 2–15)*  
+    _Inorganica Chimica Acta_, **577**, 122493, 2025.  
+    [DOI: 10.1016/j.ica.2024.122493](https://doi.org/10.1016/j.ica.2024.122493)
 
 9. RuAg<sub>n</sub> clusters:
 
 **Rodríguez-Kessler, P. L., Rodríguez-Carrera, S., Guevara-Vela, J. M., Rocha-Rinza, T., Orozco-Ic, M., Olalde-López, D., & Muñoz-Castro, A.**  
-   *Structures and stabilities Ru-doped Ag<sub>n</sub> (n = 1–13) clusters: Ag<sub>10</sub>Ru a 18-ve cluster superatom*  
-   _Inorganica Chimica Acta_, **574**, 122349, 2025.  
-   [DOI: 10.1016/j.ica.2024.122349](https://doi.org/10.1016/j.ica.2024.122349)
+    *Structures and stabilities Ru-doped Ag<sub>n</sub> (n = 1–13) clusters: Ag<sub>10</sub>Ru a 18-ve cluster superatom*  
+    _Inorganica Chimica Acta_, **574**, 122349, 2025.  
+    [DOI: 10.1016/j.ica.2024.122349](https://doi.org/10.1016/j.ica.2024.122349)
 
