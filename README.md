@@ -51,8 +51,8 @@ The cluster geometries provided in this repository are based on previously publi
 
 6. MgPt<sub>n</sub> clusters:
 
-**Guevara-Vela, J. M., Rodríguez Kessler, P. L., Muñoz-Castro, Á., Rocha-Rinza, T.**
-    *Electronic and structural properties of magnesium-doped platinum clusters: superatomic features of the MgPt<sub>9</sub> complex*
+**Guevara-Vela, J. M., Rodríguez Kessler, P. L., Muñoz-Castro, Á., Rocha-Rinza, T.** 
+    *Electronic and structural properties of magnesium-doped platinum clusters: superatomic features of the MgPt<sub>9</sub> complex* 
     _Physical Chemistry Chemical Physics_ **27**(34) ,2025.
     [DOI: 10.1039/D5CP02053K](https://doi.org/10.1039/D5CP02053K)
 
